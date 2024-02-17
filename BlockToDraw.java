@@ -1,4 +1,4 @@
-package assignment3;
+package GameBlock;
 
 import java.awt.Color;
 import java.awt.Rectangle;
