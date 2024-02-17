@@ -1,4 +1,4 @@
-package assignment3;
+package GameBlock;
 
 import java.util.ArrayList;
 import java.util.Random;
